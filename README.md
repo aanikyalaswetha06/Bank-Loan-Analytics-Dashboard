@@ -30,10 +30,17 @@ The dashboard enables users to monitor loan applications, funded amounts, repaym
 - SQL
 - Excel / CSV
 ---
+# Bank Loan Analytics Dashboard
+
 ## Dashboard Preview
-Add dashboard screenshots inside the Images folder.
-Example:
-Images/dashboard-overview.png
+
+### Overview Dashboard
+
+![Overview Dashboard](Images/dashboard-overview.png)
+
+### Summary Dashboard
+
+![Summary Dashboard](Images/dashboard-summary.png)
 ---
 ## Folder Structure
 ```
