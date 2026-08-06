@@ -25,10 +25,14 @@ This project presents an interactive Power BI dashboard for analyzing bank loan 
 - Power Query
 ---
 ## Dashboard Preview
+
 ### Overview Dashboard
-![Overview Dashboard](Images/dashboard-overview.png)
+
+![Overview Dashboard](Overview%20Dashboard.png)
+
 ### Summary Dashboard
-![Summary Dashboard](Images/dashboard-summary.png)
+
+![Summary Dashboard](Summary%20Dashboard.png)
 ---
 ## Key Insights
 - Loan applications increase steadily throughout the year.
