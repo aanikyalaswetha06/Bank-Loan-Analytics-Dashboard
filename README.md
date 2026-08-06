@@ -43,6 +43,7 @@ The dashboard enables users to monitor loan applications, funded amounts, repaym
 ![Summary Dashboard](Images/dashboard-summary.png)
 ---
 ## Folder Structure
+https://github.com/<your-username>/<repo-name>/blob/main/Images/dashboard-overview.png
 ```
 Dashboard/
 Dataset/
